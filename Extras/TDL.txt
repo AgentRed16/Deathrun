@@ -1,0 +1,5 @@
+To Do List:
+
+6/13 - Spread out player positions for Slayer Team Teleport event using circle math dependent on the number of players on that team
+    Use index of player * pi / total number of players
+    
