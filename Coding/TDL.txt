@@ -2,4 +2,5 @@ To Do List:
 
 6/13 - Spread out player positions for Slayer Team Teleport event using circle math dependent on the number of players on that team
     Use index of player * pi / total number of players
-    
+6/14 - Make /toggleDeath level 3+
+6/14 - Add GameConnection::getAdminLevel() - Host, CoHost, Dev, Admin, GM, Mod, Non Admin
