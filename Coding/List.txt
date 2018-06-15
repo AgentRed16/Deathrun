@@ -1,6 +1,7 @@
 In Progress:
 ----------------
 1. 6/14 - Add GameConnection::getAdminLevel() - Host, CoHost, Dev, Admin, GM, Mod, Non Admin
+          Set vars using autoAdminCheck
 
 Completed:
 ----------------
