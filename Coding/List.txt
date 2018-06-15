@@ -1,7 +1,9 @@
-To Do List:
-1. 6/14 - Make /toggleDeath level 3+
-2. 6/14 - Add GameConnection::getAdminLevel() - Host, CoHost, Dev, Admin, GM, Mod, Non Admin
-3. 6/14 - More useful Eval commands, fix function c(%a)
+In Progress:
+----------------
+1. 6/14 - Add GameConnection::getAdminLevel() - Host, CoHost, Dev, Admin, GM, Mod, Non Admin
 
 Completed:
+----------------
 1. 6/13 - 6/14 Spread out player positions for Slayer Team teleport (Event_TeamTeleport)
+2. 6/14 - 6/14 Make /toggleDeath level 3+
+3. 6/14 - 6/14 Eval: vel, aVel, launchForward (lf), fix function c(%a)
