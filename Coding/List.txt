@@ -1,7 +1,7 @@
 In Progress:
 ----------------
 1. 6/16 - Redo non default administration system
-          a. Zero indexed levels (H CH D SA A GM M N/A) with automatic assignments, staffShutdown(), GameConnection::getAdminLevel
+          a. Zero indexed levels with automatic assignments, staffShutdown(), GameConnection::getAdminLevel
           b. New mute system
 2. 6/16 - Eval: ability to give other clients eval access
 
