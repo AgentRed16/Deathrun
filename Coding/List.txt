@@ -1,13 +1,15 @@
 In Progress:
 ----------------
-1. 6/16 - Redo non default administration system
-          a. Zero indexed levels with automatic assignments, staffShutdown(), GameConnection::getAdminLevel
-          b. New mute system
-2. 6/16 - Eval: ability to give other clients eval access
-3. 6/17 - Respawn players instantly on death
+1. 6/17 - Make trails persistent
 
 Completed:
 ----------------
 1. 6/13 - 6/14 Spread out player positions for Slayer Team teleport (Event_TeamTeleport)
 2. 6/14 - 6/14 Make /toggleDeath level 3+
 3. 6/14 - 6/14 Eval: vel, aVel, launchForward (lf), fix function c(%a)
+4. 6/16 - 6/17 Redo non default administration system (Server_AdminLevels)
+5. 6/17 - 6/17 Respawn players instantly on death (Script_RespawnOnDeath)
+
+Withdrawn:
+----------------
+1.6/17 - Command to give others Eval access
