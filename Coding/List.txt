@@ -4,6 +4,7 @@ In Progress:
           a. Zero indexed levels with automatic assignments, staffShutdown(), GameConnection::getAdminLevel
           b. New mute system
 2. 6/16 - Eval: ability to give other clients eval access
+3. 6/17 - Respawn players instantly on death
 
 Completed:
 ----------------
