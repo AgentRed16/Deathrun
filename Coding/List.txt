@@ -1,6 +1,6 @@
 In Progress:
 ----------------
-1. 6/17 - Make trails persistent
+1. 6/17 - Make trails persistent, edit the chat messages
 
 Completed:
 ----------------
