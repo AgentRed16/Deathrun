@@ -1,6 +1,6 @@
 In Progress:
 ----------------
-1. 6/17 - Make trails persistent, edit the chat messages
+1. 6/20 - Recode PM system
 
 Completed:
 ----------------
