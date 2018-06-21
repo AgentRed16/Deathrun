@@ -1,6 +1,6 @@
 In Progress:
 ----------------
-1. 6/20 - Figure out what's happening with the hat shop
+1. 6/20 - Replace hat shop events with reliable code
 
 Completed:
 ----------------
