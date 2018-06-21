@@ -15,4 +15,4 @@ Completed:
 
 Withdrawn:
 ----------------
-1.6/17 - Command to give others Eval access
+1. 6/17 - Command to give others Eval access
