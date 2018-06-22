@@ -1,6 +1,7 @@
 In Progress:
 ----------------
 1. 6/20 - Replace shop events with reliable code
+2. 6/21 - Fix /find and edit /kick permissions in admin levels
 
 Completed:
 ----------------
