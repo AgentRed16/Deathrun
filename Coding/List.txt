@@ -1,8 +1,8 @@
 In Progress:
 ----------------
-1. 6/20 - Replace shop events with reliable code
-2. 6/21 - Fix /find and edit /kick permissions in admin levels
+1. 6/21 - Fix /find and edit /kick permissions in admin levels
 2. 6/22 - Fix developers already being moderators
+3. 6/23 - Fix double echoes in eval
 
 Completed:
 ----------------
@@ -14,6 +14,7 @@ Completed:
 6. 6/18 - 6/19 Edit Server_AdminLevels, create a list commands and their permissions, publish to Discord
 7. 6/17 - 6/20 Make trails persistent, edit chat messages (Sever_PlayerTrails)
 8. 6/20 - 6/20 Recode PMSys
+9. 6/20 - 6/23 Code the shop so we don't have to use events
 
 Withdrawn:
 ----------------
