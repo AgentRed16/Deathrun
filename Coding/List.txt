@@ -3,6 +3,7 @@ In Progress:
 1. 6/21 - Fix /find and edit /kick permissions in admin levels
 2. 6/22 - Fix developers already being moderators
 3. 6/23 - Fix double echoes in eval
+4. 6/23 - Refine radius for team teleports
 
 Completed:
 ----------------
