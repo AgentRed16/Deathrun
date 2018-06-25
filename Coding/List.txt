@@ -4,6 +4,7 @@ In Progress:
 2. 6/22 - Fix developers already being moderators
 3. 6/23 - Fix double echoes in eval
 4. 6/23 - Refine radius for team teleports
+5. 6/25 - Edit usage of GameConnection::getAdminLevel
 
 Completed:
 ----------------
