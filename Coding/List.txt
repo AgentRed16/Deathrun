@@ -1,8 +1,7 @@
 In Progress:
 ----------------
 1. 6/25 - Make Eval more extensive
-2. 7/8  - Rotator w maps and env
-3. 7/9  - Make /fetch and /find work with vehicles
+2. 7/9  - Make /fetch and /find work with vehicles
 
 Completed:
 ----------------
@@ -20,6 +19,7 @@ Completed:
 12. 6/22 - 6/25 Fix developers already being moderators
 13. 6/25 - 6/25 Edit usage of GameConnection::getAdminLevel
 14. 7/2  - 7/2  AllJoinTeam and ChooseRandPlayer events (Event_MinigameExtras)
+15. 7/8  - 7/9  New rotator with saves and environment options  
 
 Withdrawn:
 ----------------
