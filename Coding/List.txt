@@ -2,6 +2,7 @@ In Progress:
 ----------------
 1. 6/25 - Make Eval more extensive
 2. 7/8  - Rotator w maps and env
+3. 7/9  - Make /fetch and /find work with vehicles
 
 Completed:
 ----------------
