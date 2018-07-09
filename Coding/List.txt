@@ -1,6 +1,7 @@
 In Progress:
 ----------------
-1. 6/23 - Fix multiple echoes in eval
+1. 6/25 - Make Eval more extensive
+2. 7/8  - Rotator w maps and env
 
 Completed:
 ----------------
