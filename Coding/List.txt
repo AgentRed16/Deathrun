@@ -1,14 +1,12 @@
 In Progress:
 ----------------
-1. 6/25 - Make Eval more extensive
-2. 7/9  - Make /fetch and /find work with vehicles
-3. 7/10 - Begin making this into a GM, combine/organize scripts
+1. 7/9  - Make /fetch and /find work with vehicles
+2. 7/10 - Begin making this into a GM, combine/organize scripts
 
 Completed:
 ----------------
 1.  6/13 - 6/14 Spread out player positions for Slayer Team teleport (Event_TeamTeleport)
 2.  6/14 - 6/14 Make /toggleDeath level 3+
-3.  6/14 - 6/14 Eval: vel, aVel, launchForward (lf), fix function c(%a)
 4.  6/16 - 6/17 Redo non default administration system (Server_AdminLevels)
 5.  6/17 - 6/17 Respawn players instantly on death (Script_RespawnOnDeath)
 6.  6/18 - 6/19 Edit Server_AdminLevels, create a list commands and their permissions, publish to Discord
@@ -24,7 +22,3 @@ Completed:
 16. 7/9  - 7/10 Rotator: Runners respawn, /chooseMap, intermission /setIMBrick
 17. 7/9  - 7/10 Event to change team DB (Event_ChangeTeamDatablock)
 18. 7/10 - 7/10 Fix console spam for print points
-
-Withdrawn:
-----------------
-1. 6/17 - Command to give others Eval access
