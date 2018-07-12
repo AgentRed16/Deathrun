@@ -2,7 +2,8 @@ In Progress:
 ----------------
 1. 7/9  - Make /fetch and /find work with vehicles
 2. 7/10 - Begin making this into a GM, combine/organize scripts
-3. 7/10 - /spec /spawn, add shortcut with opening bricks menu
+3. 7/10 - /spec /spawn, add shortcut with clear ghost brick
+4. 7/12 - Allow moderators to /spy
 
 Completed:
 ----------------
