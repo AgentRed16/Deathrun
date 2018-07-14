@@ -23,4 +23,7 @@ Completed:
 17. 7/9  - 7/10 Event to change team DB (Event_ChangeTeamDatablock)
 18. 7/10 - 7/10 Fix console spam for print points
 19. 7/12 - 7/12 Allow mods to /spy
-20. 7/12 - /spec /spawn, add shortcut with clear ghost brick
+20. 7/12 - 7/12 /spec /spawn, add shortcut with clear ghost brick
+21. 7/14 - 7/14 Remove /toggleDeath
+22. 7/14 - 7/14 Edit MinigameExtras to only work with Deathrun minigame
+
