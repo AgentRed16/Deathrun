@@ -1,7 +1,5 @@
 In Progress:
 ----------------
-1. 7/9  - Make /fetch and /find work with vehicles
-2. 7/10 - Begin making this into a GM, combine/organize scripts
 
 Completed:
 ----------------
@@ -26,4 +24,4 @@ Completed:
 20. 7/12 - 7/12 /spec /spawn, add shortcut with clear ghost brick
 21. 7/14 - 7/14 Remove /toggleDeath
 22. 7/14 - 7/14 Edit MinigameExtras to only work with Deathrun minigame
-
+23. 7/10 - 7/21 Combine into one script
